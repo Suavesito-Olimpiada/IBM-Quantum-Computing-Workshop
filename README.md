@@ -47,4 +47,4 @@ If you're willing to run in the cloud using Azure Notebooks:
 
 -----
 
-All this markdown is based on the @RodolfoFerro [markdown](https://github.com/RodolfoFerro/IBMQC18/blob/master/README.md) of the same workshop.
+All this markdown is based on the [@RodolfoFerro](https://github.com/RodolfoFerro) markdown ([here](https://github.com/RodolfoFerro/IBMQC18/blob/master/README.md)) of the same workshop.
