@@ -1,6 +1,7 @@
 # IBM Quantum Computing Workshop
 
-From 06/18/2018 to 06/22/2018 we are in the **IBM-ITESM Quantum Computing Workshop** 
+From _06/18/2018_ to _06/22/2018_ we were in the **IBM-ITESM Quantum Computing Workshop** in Mexico City.
+In this Workshop we learned from the math basis of quantum mechanics to how to program some of the most known quantum algorithms ([Grove algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm), [Shor algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm)), using the open source simulator of IBM [**QISKit**](https://qiskit.org/).
 
 ## Structure
 
