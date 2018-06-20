@@ -1,6 +1,10 @@
+# Latex Compiling files
 *.aux
 *.log
 *.toc
 *.fls
 *.fdb_latexmk
 *.out
+
+# Byte-compiled / optimized python files
+*.py[cod]
