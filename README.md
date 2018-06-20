@@ -14,7 +14,7 @@ You'll find several folders in this repo, which contain all the content created 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="5%"> <img src="https://image.flaticon.com/icons/svg/109/109526.svg" width="1.5%"> <img src="https://gitlab.eurecom.fr/zoe-apps/pytorch/avatar" width="5.5%">
 
-For this workshop [Python 3](https://www.python.org/) will be needed, and [Jupyter Notebooks](http://jupyter.org/) will be very useful.
+For this workshop [Python 3](https://www.python.org/) will be needed, and [Jupyter Notebooks](http://jupyter.org/) could be very useful.
 
 <img src="https://raw.githubusercontent.com/QISKit/qiskit-tutorial/master/images/qiskit-heading.gif" width="18%">
 
