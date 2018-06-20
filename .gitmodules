@@ -1,0 +1,3 @@
+[submodule "qiskit-tutorial"]
+	path = qiskit-tutorial
+	url = https://github.com/QISKit/qiskit-tutorial.git
