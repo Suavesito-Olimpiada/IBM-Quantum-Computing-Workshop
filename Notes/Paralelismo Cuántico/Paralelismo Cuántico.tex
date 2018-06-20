@@ -1,0 +1,58 @@
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage[spanish,english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsbsy,amsmath,amstext,amssymb,amsfonts,amsthm}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{listings}
+\usepackage{verbatim}
+
+%You can use \cofe[ABCD]m{alpha=[0,1]}{scale=[0:...]}{algle=[1,360]}{xoff}{yofff}
+
+\newcounter{problem}
+\newcommand\Problem{
+    \stepcounter{problem}
+    \textbf{Problema \theproblem\\[2.0pt]}
+}
+
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{corollary}{Corolario}[theorem]
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{definition}[theorem]{Definición}
+
+\renewcommand\qedsymbol{$\blacksquare$}
+
+\title{Paralelismo Cuántico}
+\author{José Joaquín Zubieta Rico\\IBM Q \-- ITESM Workshop}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+    Make possible evaluate a function $f(x)$ for each value of $x$ in a single step of the execution of a quantum algorithm.
+
+    \section*{Deutsch-Jozsa Problem}
+
+        We define a $f:{\left\{0,1\right\}}^{n}\rightarrow\left\{0,1\right\}$ function that can be one of tow types of functions:
+        \begin{itemize}
+            \item   A constant function in which case all the outputs of evaluating $f$ in some $x \in {\left\{0,1\right\}}^n$ will be zero.
+            \item   a balanced function 
+        \end{itemize}
+
+    \section*{Deutsch-Jozsa Algorithm}
+
+        Originally the Deutsch algorithm was developed with the intention of apply a single function over an ``array'' of possible states on a quantum computer. In the specific case of the Deutsch-Jozsa algorithm it is used for apply an oracle $(f)$ function over all possible values it can receive.
+        For this case we will represent the module $2$ sum (a XOR logic gate) as a $\oplus$.
+
+        \subsection*{Definition $f$ oracle function}
+
+        \subsection*{Unitary operator for $f$}
+
+            We will define an unitary operator $\^{U}_f$ that will map the state $|x\rangle\otimes|y\rangle$ into the state $|x\rangle\otimes|y+f(x)\rangle$, for our $f$ oracle function.
+
+\end{document}
+
