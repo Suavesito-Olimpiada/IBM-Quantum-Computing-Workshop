@@ -8,7 +8,7 @@ In this Workshop we learned from the math basis of quantum mechanics to how to p
 You'll find several folders in this repo, which contain all the content created during this workshop. The main structure is as follows:
 
 - 📁 **[Notes](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Notes):** Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
-- 📁 **[Code](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Code):** Contains all code programed by us (or me).
+- 📁 **[Code](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Code):** Contains all code programed by us.
 
 ## Requirements
 
