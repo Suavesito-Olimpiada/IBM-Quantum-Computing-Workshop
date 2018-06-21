@@ -1,6 +1,6 @@
 [submodule "qiskit-tutorial"]
-	path = qiskit-tutorial
+	path = Tutorials/qiskit-tutorial
 	url = https://github.com/QISKit/qiskit-tutorial.git
 [submodule "qiskit-acqua-tutorials"]
-	path = qiskit-acqua-tutorials
+	path = Tutorials/qiskit-acqua-tutorials
 	url = https://github.com/QISKit/qiskit-acqua-tutorials.git
