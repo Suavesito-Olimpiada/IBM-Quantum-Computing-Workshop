@@ -9,6 +9,7 @@ You'll find several folders in this repo, which contain all the content created 
 
 - 📁 **[Notes](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Notes):** Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
 - 📁 **[Code](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Code):** Contains all code programed by us.
+- 📁 **[Tutorials](https://github.com/Suavesito-Olimpiada/IBM-Quantum-Computing-Workshop/tree/master/Tutorials):** Contains all the submodules that contain QISKit tutorials.
 
 ## Requirements
 
